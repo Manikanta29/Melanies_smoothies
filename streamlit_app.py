@@ -1,6 +1,6 @@
 # Import python packages
-import snowflake.connector.python as sc
-import snowflake.snowpark.python as ss
+import snowflake as sf
+#import snowflake.snowpark.python as ss
 import streamlit as st
 from snowflake.snowpark.functions import col
 
